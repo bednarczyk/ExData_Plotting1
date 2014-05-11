@@ -1,4 +1,4 @@
-## Note: The following steps assume that that data has been downloaded from
+## Note: The following steps assume that the data has been downloaded from
 ## https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 ## and unzipped in the user's current working directory
 
